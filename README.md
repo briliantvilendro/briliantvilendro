@@ -75,25 +75,22 @@ Regression model for estimating house prices.
 ### 👨‍💼 Recruitment Decision Prediction
 Machine Learning model for hiring decision support.
 
-### 🌍 GIS Spatial Analysis
-Geospatial analysis and mapping using GIS technologies.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=briliantvilendro&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=briliantvilendro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=briliantvilendro&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=briliantvilendro&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briliantvilendro&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briliantvilendro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
