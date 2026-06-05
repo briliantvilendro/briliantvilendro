@@ -91,6 +91,15 @@ Machine Learning model for hiring decision support.
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=briliantvilendro&theme=tokyonight">
 </p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=briliantvilendro&theme=tokyonight&row=1&column=6" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=briliantvilendro&theme=tokyo-night" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
