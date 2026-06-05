@@ -81,15 +81,15 @@ Machine Learning model for hiring decision support.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=briliantvilendro&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briliantvilendro&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=briliantvilendro&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briliantvilendro&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briliantvilendro&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=briliantvilendro&theme=tokyonight">
 </p>
 ---
 
