@@ -85,19 +85,11 @@ Machine Learning model for hiring decision support.
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briliantvilendro&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=briliantvilendro&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=briliantvilendro&theme=tokyonight&row=1&column=6" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=briliantvilendro&theme=tokyo-night" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=briliantvilendro&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -119,12 +111,21 @@ Machine Learning model for hiring decision support.
 
 ## 🌐 Connect With Me
 
+<h3 align="left">🌐 Connect With Me</h3>
+
 <p align="left">
-<a href="https://github.com/briliantvilendro" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<a href="https://github.com/briliantvilendro">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:bvilendro@gmailecom">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/[username-linkedin](https://www.linkedin.com/in/briliant-vilendro-kastilong-751461291/)">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
-
 ---
 
 ### 💡 Favorite Quote
