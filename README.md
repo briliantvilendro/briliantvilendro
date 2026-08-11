@@ -67,8 +67,6 @@
 | 🏠 **House Price Prediction** | Regression model for estimating house prices |
 | 👨‍💼 **Recruitment Decision Prediction** | Machine learning model to support hiring decisions |
 
-> 💡 Tambahkan link repository di setiap baris tabel di atas begitu proyeknya sudah kamu publish, misalnya `[NLP Recruitment Chatbot](https://github.com/username/repo)`.
-
 ---
 
 ## 📊 GitHub Statistics
