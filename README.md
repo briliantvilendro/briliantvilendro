@@ -1,17 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Briliant%20Vilendro%20Kastilong&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20with%20ML%20%26%20Statistics&descAlignY=55&descSize=18" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=200&section=header&text=Briliant%20Vilendro%20Kastilong&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=18" alt="header banner" />
 
 <div align="center">
 
-![Data Science](https://img.shields.io/badge/📊_Data_Science-FF6F61?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/🤖_Machine_Learning-6A5ACD?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/📈_Statistics-2E8B57?style=for-the-badge)
-![NLP](https://img.shields.io/badge/🧠_NLP-FF9F1C?style=for-the-badge)
+### Data Science Enthusiast · Machine Learning Engineer · NLP Researcher
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585,7209B7,3A0CA3,4361EE,4CC9F0&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Statistics+%26+Probability+Nerd+%F0%9F%93%88;NLP+Researcher+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;NLP+Researcher;Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=briliantvilendro&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-
-<img src="https://img.shields.io/github/followers/briliantvilendro?label=Followers&style=for-the-badge&color=orange" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=briliantvilendro&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -22,59 +17,55 @@
 <img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="coding animation" />
 
 - 🎓 Informatics Engineering student
-- 📊 Passionate about **data science** and **statistical analysis**
-- 🤖 Building **machine learning** & **deep learning** projects
-- 🧠 Deep interest in **Natural Language Processing (NLP)**
-- 📈 Skilled at exploratory data analysis, hypothesis testing & predictive modeling
+- 📊 Passionate about data science and data analytics
+- 🤖 Building machine learning & deep learning projects
+- 🧠 Interested in Natural Language Processing (NLP)
+- 📈 Focused on turning raw data into actionable insight
 - 🚀 Always learning and sharpening my technical skills
 
 <br clear="right"/>
 
 ---
 
-## 🧬 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,r,sql,js&theme=dark" alt="languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 Machine Learning & Deep Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras&theme=dark" alt="ml frameworks" />
+**Data Science & Machine Learning**
 
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC5F2B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
 
-### 📈 Data & Statistics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![StatsModels](https://img.shields.io/badge/Statsmodels-2C3E50?style=for-the-badge)
+**Visualization**
 
-### 📊 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
 
-### 🛠️ Dev Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,postgres&theme=dark" alt="dev tools" />
+**Tools**
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🤖 **NLP Recruitment Chatbot** | AI-powered chatbot for organization member recruitment and candidate evaluation | `NLP` `Python` `Transformers` |
-| 📊 **Customer Churn Prediction** | Predicting customer churn using machine learning classification models | `Scikit-Learn` `Pandas` `EDA` |
-| 🏠 **House Price Prediction** | Regression model for estimating house prices | `Regression` `Feature Engineering` |
-| 👨‍💼 **Recruitment Organization Decision Prediction** | Machine learning model to support hiring decisions | `Classification` `ML` |
-
+| Project | Description |
+|---|---|
+| 🤖 **NLP Recruitment Chatbot** | AI-powered chatbot for organization member recruitment and candidate evaluation |
+| 📊 **Customer Churn Prediction** | Predicting customer churn using machine learning classification models |
+| 🏠 **House Price Prediction** | Regression model for estimating house prices |
+| 👨‍💼 **Recruitment Decision Prediction** | Machine learning model to support hiring decisions |
 
 ---
 
@@ -82,14 +73,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=briliantvilendro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=ffffff" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=briliantvilendro&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=4CC9F0&fire=F72585&currStreakLabel=4CC9F0" alt="GitHub streak" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briliantvilendro&theme=tokyonight" alt="Profile details" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briliantvilendro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=ffffff" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=briliantvilendro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=briliantvilendro&theme=react-dark&bg_color=0D1117&color=4CC9F0&line=F72585&point=ffffff&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=briliantvilendro&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=briliantvilendro&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=briliantvilendro&theme=tokyo-night" alt="Activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=briliantvilendro&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -105,8 +97,7 @@
 
 ## 🎯 Current Goals
 
-- [ ] Go deeper into Deep Learning & Neural Networks
-- [ ] Master advanced statistical modeling & inference
+- [ ] Go deeper into Deep Learning
 - [ ] Master Natural Language Processing
 - [ ] Contribute to open source projects
 
@@ -138,4 +129,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=120&section=footer" alt="footer banner" />
